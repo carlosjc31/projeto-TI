@@ -54,11 +54,8 @@ Foram aplicadas GPOs para automatizar configurações e reforçar a segurança:
 
 Este projeto foi desenvolvido por:
 
-* Calebe Sousa de Araujo 
-* Cleiton Valentim 
-* Ivo Sousa Araujo 
 * José Carlos Carneiro 
-* Kátia Cursi 
+
 
 
 
