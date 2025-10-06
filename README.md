@@ -50,7 +50,7 @@ Foram aplicadas GPOs para automatizar configurações e reforçar a segurança:
     * `GR_Endian_Bloqueado`: Bloqueio total a sites inadequados (redes sociais, entretenimento).
     * `GR_Endian_Filtrado`: Acesso monitorado e com restrições a categorias específicas de conteúdo (Jogos, Compras, etc.).
 
-## 👥 Autores
+## 👥 Autore
 
 Este projeto foi desenvolvido por:
 
